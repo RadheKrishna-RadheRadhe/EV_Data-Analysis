@@ -19,11 +19,7 @@ You’ll find:
 
 ## 🛠️ Setup
 
-### 📦 Install All Required Libraries
-
-### 📦 Install Required Libraries
-
-Install all necessary packages with:
+### 📦 Install Required Libraries (Step-by-Step)
 
 ```bash
 pip install pandas
@@ -37,7 +33,7 @@ pip install pyproj
 pip install pyogrio
 pip install scikit-learn
 pip install notebook
-k
+```
 
 ### 📦 Install All Required Libraries (One Line)
 
@@ -45,6 +41,6 @@ You can install everything at once:
 
 ```bash
 pip install pandas numpy matplotlib seaborn plotly geopandas shapely pyproj pyogrio scikit-learn notebook
-
-
+andas numpy matplotlib seaborn plotly geopandas shapely pyproj pyogrio scikit-learn notebook
+```
 
