@@ -41,6 +41,5 @@ You can install everything at once:
 
 ```bash
 pip install pandas numpy matplotlib seaborn plotly geopandas shapely pyproj pyogrio scikit-learn notebook
-andas numpy matplotlib seaborn plotly geopandas shapely pyproj pyogrio scikit-learn notebook
 ```
 
