@@ -43,3 +43,22 @@ You can install everything at once:
 pip install pandas numpy matplotlib seaborn plotly geopandas shapely pyproj pyogrio scikit-learn notebook
 ```
 
+### 🚀 Running the Analysis
+
+1. **Launch Jupyter Notebook**  
+   Once you've installed the libraries, launch Jupyter Notebook by running this command in the terminal:
+
+   ```bash
+   jupyter notebook
+   ```
+
+### Open the Notebook
+Your default web browser will open, showing the Jupyter Notebook dashboard. Find and open the `Project.ipynb` file.
+
+### Run the Cells
+Inside the Jupyter Notebook, run all cells to execute the analysis.
+
+### Export the Report
+If you'd like, you can export the notebook as a PDF or HTML by going to **File → Download as**.
+
+
