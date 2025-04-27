@@ -1,5 +1,7 @@
 ## EV_Data-Analysis
 
+**Dataset Link: [Electric Vehicle Population Data](https://catalog.data.gov/dataset/electric-vehicle-population-data)**
+
 This repository contains an Exploratory Data Analysis (EDA) on EV charging data in Washington, D.C.  
 You’ll find:
 
@@ -19,6 +21,14 @@ You’ll find:
 
 ## 🛠️ Setup
 
+### 📥 Download the Shape Files and Dataset csv File
+
+   Dataset Download Link: Dataset Link: [Electric Vehicle Population Data](https://catalog.data.gov/dataset/electric-vehicle-population-data)
+
+   Download the Shapefiles from the Github repository and move them into a folder
+
+   Download the **Project.ipynb** file and move it into the same folder where the shape files and the Dataset iis copied.
+   
 ### 📦 Install Required Libraries (Step-by-Step)
 
 ```bash
@@ -62,4 +72,6 @@ Inside the Jupyter Notebook, run all cells to execute the analysis.
 ### Export the Report
 If you'd like, you can export the notebook as a PDF or HTML by going to **File → Download as**.
 
+### Additional Resources
+For more information on electric vehicles, you can explore the [Electric Vehicle Population Data](https://catalog.data.gov/dataset/electric-vehicle-population-data) from the U.S. Government's data catalog.
 
