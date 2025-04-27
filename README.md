@@ -19,12 +19,32 @@ You’ll find:
 
 ## 🛠️ Setup
 
-### 1. (Recommended) Create a virtual environment
+### 📦 Install All Required Libraries
+
+### 📦 Install Required Libraries
+
+Install all necessary packages with:
 
 ```bash
-python -m venv venv
-# Windows
-venv\Scripts\activate
-# macOS/Linux
-source venv/bin/activate
+pip install pandas
+pip install numpy
+pip install matplotlib
+pip install seaborn
+pip install plotly
+pip install geopandas
+pip install shapely
+pip install pyproj
+pip install pyogrio
+pip install scikit-learn
+pip install notebook
+k
+
+### 📦 Install All Required Libraries (One Line)
+
+You can install everything at once:
+
+```bash
+pip install pandas numpy matplotlib seaborn plotly geopandas shapely pyproj pyogrio scikit-learn notebook
+
+
 
