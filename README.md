@@ -5,8 +5,10 @@
 This repository contains an Exploratory Data Analysis (EDA) on EV charging data in Washington, D.C.  
 You’ll find:
 
-- **`Project.ipynb`** – main Jupyter notebook with data loading, cleaning, analysis & mapping  
-- **`EV_Data_Analysis.pdf`** & **`Presentation_Report.pptx`** – static report and slide deck  
+**Reports**
+-  **Document_Report** & **`Presentation_Report.pptx`** - Key Insights in form of Document and Slide Deck
+- **`Project.ipynb`** – Main Jupyter notebook with data loading, cleaning, analysis & mapping  
+- **`EV_Data_Analysis.pdf`** – Static report with Code and Inferences  
 - **Shapefiles** (`WA_County_Boundaries.*`, `WA_State_Boundary.geojson`) for geospatial joins  
 
 ---
